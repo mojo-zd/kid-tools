@@ -29,7 +29,3 @@ func main() {
 	}
 	fmt.Println(pk.KeyID())
 }
-
-func swap(filePath1, filePath2 string) {
-
-}
